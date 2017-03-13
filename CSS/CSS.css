@@ -1,0 +1,226 @@
+name {
+    color: gray;
+    font-weight: lighter;
+}
+
+
+div.header{
+    text-align: center;
+    font-family: "Bell MT Italic";
+    font-size: 80%;
+    width: 550px;
+    border: 3px solid black;
+    padding-left: auto;
+    padding-right: auto;
+    padding-bottom: auto;
+    padding-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.photoLayout{
+    padding 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 508px;
+}
+
+
+#footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+div.img {
+    margin: 15px;
+    border: 2px solid gray;
+    float: left;
+    width: 220px;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.t1, div.t2, div.t3, div.t4, div.t5, div.t6, div.t7, div.t8, div.t9, div.10, div.11 {
+    padding: 15px;
+    text-align: center;
+    font-family: "Lucida Sans Typewriter";
+}
+
+.desc{
+    font-family: "Lucida Sans Typewriter";
+}
+
+a{
+    width: 100%;
+    text-align: center;
+    font-family: "Lucida Sans Typewriter";
+}
+
+.img
+{
+    opacity:1;
+}
+.img:hover
+{
+    opacity:0.5;
+}
+
+div.prices {
+    margin: 15px;
+    border: 2px solid gray;
+    float: left;
+    width: 220px;
+}
+
+div.prices img {
+    width: 100%;
+    height: auto;
+}
+
+.t1:hover {
+    font-weight: bold;
+}
+.t2:hover{
+    font-weight: bold;
+}
+.t3:hover {
+    font-weight: bold;
+}
+.t4:hover {
+    font-weight: bold;
+}
+.t5:hover {
+    font-weight: bold;
+}
+.t6:hover {
+    font-weight: bold;
+}
+
+img.imgMe{
+    position: absolute;
+    left: 50%;
+    margin-left: -275px;
+}
+
+.checkOut{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    margin-top: 455px;
+    font-family: "Bell MT Italic";
+    font-size: 80%;
+    font-weight: lighter;
+}
+
+table{
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+th, td{
+    border: 1px solid black;
+    padding: .2em .7em;
+    text-align: right;
+    font-family: "Bell MT Italic";
+}
+th.left, td.left{text-align: left;}
+thead, tfoot { background-color: aqua;}
+tfoot {font-weight: bold;  }
+
+.table{
+    padding 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 550px;
+}
+
+.pLink{
+    color: black;
+}
+
+div.MeBox{
+    border: 3px solid black;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    padding: 10px;
+}
+
+div.myServicesBox{
+    border: 3px solid black;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    padding: 10px;
+}
+
+div.linkBox{
+    text-align: center;
+    font-family: "Bell MT Italic";
+    font-size: 80%;
+    width: 550px;
+    height: 65px;
+    border: 3px solid black;
+    padding-left: auto;
+    padding-right: auto;
+    padding-bottom: auto;
+    padding-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+
+}
+
+
+h2{
+    font-family: "Bell MT Italic";
+    margin: 10px;
+}
+
+h3{
+    font-family: "Bell MT Italic";
+    margin: 10px;
+    color: gray;
+}
+
+h4{
+    font-family: "Bell MT Italic";
+    margin: 10px;
+    color: gray;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+figure{
+    margin-left: auto;
+    margin-right: auto;
+    width: 506px;
+}
+
+
+.SS{
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    padding: 10px;
+
+}
+
+.SS:hover{
+    border-radius: 50%;
+}
+
+.p2{
+    font-family: "Bell MT Italic";
+    font-weight: lighter;
+    margin: 10px;
+font-size: 9pt;
+}
