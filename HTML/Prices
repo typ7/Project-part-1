@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" xmlns="http://www.w3.org/1999/html">
+<html lang="en" xmlns="http://www.w3.org/html">
 
 <head>
   <meta charset="UTF-8">
@@ -12,8 +12,8 @@
 
   <div class="header">
     <h1><a href="../HTML/Index.html" style="text-decoration: none">
-      <span class="name">Erika Reichert</span>
-      <span class="photography">Photography</span>
+      <span class="name">Tracey Pearson</span>
+      <span class="name">Pet Seller</span>
     </a></h1>
 
     <p>
@@ -23,7 +23,40 @@
       <a href="../HTML/Connect.html" style="text-decoration: none"><span class="pLink">Connect</span></a>
     </p>
   </div>
-
+  <div class="prices">
+      <div class="t1">Puppies<br>$600 per dog</div>
+</div>
+<div class="prices">
+      <div class="t2">Cats<br>$100 per cat</div>
+</div>
+<div class="prices">
+      <div class="t3">Fish<br>$5 per fish </div>
+</div>
+<div class="prices">
+      <div class="t4">Shampoo<br>$10 for a bottle</div>
+</div>
+<div class="prices">
+      <div class="t5">Crates<br>$25-$200</div>
+</div>
+<div class="prices">
+      <div class="t6">Cat Liter<br>$15 a lb.</div>
+</div>
+<div class="prices">
+      <div class="t7">Liter Box<br>$10</div>
+</div>
+<div class="prices">
+      <div class="t8">Puppy Food<br>$20 a lb.</div>
+</div>
+<div class="prices">
+      <div class="t9">Cat Food<br>$20 a lb.</div>
+</div>
+<div class="prices">
+      <div class="t10">Cat Toys<br>$5-$20</div>
+</div>
+<div class="prices">
+      <div class="t11">Dog Toys<br>$5- $20</div>
+</div>
+   
 </body>
 
 </html>
