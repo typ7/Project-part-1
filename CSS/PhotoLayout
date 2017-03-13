@@ -1,0 +1,28 @@
+div.img {
+    margin: 15px;
+    border: 2px solid gray;
+    float: left;
+    width: 220px;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.home, div.info, div.about, div.connect {
+    padding: 15px;
+    text-align: center;
+    font-family: "Bell MT Italic";
+}
+
+.desc{
+    font-family: "Lucida Sans Typewriter";
+}
+
+div.logo{
+    float: left;
+    width: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
