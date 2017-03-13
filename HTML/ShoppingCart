@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Shopping Cart</title>
+
+  <link rel="stylesheet" href="../CSS/CSS.css">
+</head>
+
+<body>
+
+  <div class="header">
+    <h1><a href="../HTML/Index.html" style="text-decoration: none">
+      <span class="name">Tracey Pearson</span>
+      <span class="name">Pet Seller</span>
+    </a></h1>
+
+    <p>
+      <a href="../HTML/Me.html" style="text-decoration: none"><span class="pLink">Me</span></a> |
+      <a href="../HTML/Services.html" style="text-decoration: none"><span class="pLink">Services</span></a> |
+      <a href="../HTML/Prices.html" style="text-decoration: none"><span class="pLink">Prices</span></a> |
+      <a href="../HTML/Connect.html" style="text-decoration: none"><span class="pLink">Connect</span></a>
+    </p>
+  </div>
+
+  <div class="table">
+    <table width="550px">
+      <tr>
+        <th class="left">Service</th>
+        <th class="left">Price</th>
+        <th class="left"># of items</th>
+        <th class="left">Add to cart</th>
+      </tr>
+      <tr>
+        <td class="left">Puppies</td>
+        <td >$600 / item </td>
+        <td class="left"><input type="text"/></td>
+        <td class="left><"Checkmark.gif"></td>
+      </tr>
+      <tr>
+        <td class="left">Dog Food</td>
+        <td >$20 / item</td>
+        <td class="left"><input type="text"/></td>
+        <td class="left"><Checkmark.gif"></td>
+      </tr>
+      <tr>
+        <td class="left">Crate</td>
+        <td >$25 / <br>item</td>
+        <td class="left"><input type="text"/></td>
+        <td class="left"><Checkmark.gif"></td>
+      </tr>
+      <tr>
+        <td class="left">Dog Toy</td>
+        <td >$5 / item</td>
+        <td class="left"><input type="text"/></td>
+        <td class="left"><Checkmark.gif"></td>
+      </tr>
+      <tr>
+        <td class="left">Cat</td>
+        <td >$100 / item</td>
+        <td class="left"><input type="text"/></td>
+        <td class="left"><Checkmark.gif"></td>
+      </tr>
+      <tr>
+        <td class="left">Cat Liter</td>
+        <td >$20 / session</td>
+        <td class="left"><input type="text"/></td>
+        <td class="left"><Checkmark.gif"></td>
+      </tr>
+      <tr>
+        <td class="left">Liter Box</td>
+        <td >$10 / session</td>
+        <td class="left"><input type="text"/></td>
+        <td class="left"><Checkmark.gif"></td>
+      </tr>
+      <tr>
+        <td class="left">Cat toy</td>
+        <td >$15 / item</td>
+        <td class="left"><input type="text"/></td>
+        <td class="left"><Checkmark.gif"></td>
+      </tr>
+      <tr>
+        <td class="left">Cat Food</td>
+        <td >$20 / item</td>
+        <td class="left"><input type="text"/></td>
+        <td class="left"><Checkmark.gif"></td>
+      </tr>
+    </table>
+  </div>
+
+</body>
+</html>
