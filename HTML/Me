@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+  <title>About Me</title>
+
+  <link rel="stylesheet" href="../CSS/CSS.css">
+
+</head>
+
+<body>
+  <meta charset="UTF-8">
+
+  <div class="header">
+    <h1><a href="../HTML/Index.html" style="text-decoration: none">
+      <span class="name">Tracey Perason</span>
+      <span class="name">Pet Seller</span>
+    </a></h1>
+
+    <p>
+      <a href="../HTML/Services.html" style="text-decoration: none"><span class="pLink">Services</span></a> |
+      <a href="../HTML/Prices.html" style="text-decoration: none"><span class="pLink">Prices</span></a> |
+      <a href="../HTML/ShoppingCart.html" style="text-decoration: none"><span class="pLink">Check Out</span></a> |
+      <a href="../HTML/Connect.html" style="text-decoration: none"><span class="pLink">Connect</span></a>
+
+    </p>
+  </div>
+
+  <div class="MeBox">
+    <h2>
+      Sellers Background
+    </h2>
+    <p>
+      I graduated form the University of Pittsburgh with a passion for animals
+      throughout college I volunteered at local shelters where I had the opportunity
+      to provide animals love and care until a family comes and adopts them,
+      I feel like when selling puppies and cats it's important to send them to a home where they will 
+      receive plenty of love.
+    </p>
+  </div>
+
+  <figure>
+  <img class="imgMe" src="../Photos/Me.jpeg" border="3px" alt="Tracey Pearson" width="550"/>
+  </figure>
+
+</body>
+</html>
