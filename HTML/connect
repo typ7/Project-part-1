@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+
+  <meta charset="UTF-8">
+  <title>Connect</title>
+
+  <link rel="stylesheet" href="../CSS/CSS.css">
+
+
+</head>
+<body>
+
+  <div class="header">
+    <h1><a href="../HTML/Index.html" style="text-decoration: none">
+      <span class="name">Tracey Pearson</span>
+      <span class="name">Pet Seller</span>
+    </a></h1>
+
+    <p>
+      <a href="../HTML/Me.html" style="text-decoration: none"><span class="pLink">About Me</span></a> |
+      <a href="../HTML/Services.html" style="text-decoration: none"><span class="pLink">Services</span></a> |
+      <a href="../HTML/ShoppingCart.html" style="text-decoration: none"><span class="pLink">Check Out</span></a> |
+      <a href="../HTML/Prices.html" style="text-decoration: none"><span class="pLink">Prices</span></a>
+    </p>
+  </div>
+
+  <div class="photoLayout">
+      <a href="http://www.instagram.com"
+      </a>
+    </figure>
+
+    <figure>
+      <a href="http://www.facebook.com">
+      </a>
+    </figure>
+  </div>
+
+</body>
+
+</html>
